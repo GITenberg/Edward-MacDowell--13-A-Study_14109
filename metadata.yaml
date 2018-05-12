@@ -1,0 +1,29 @@
+_repo: Edward-MacDowell--13-A-Study_14109
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gilman, Lawrence
+    birthdate: 1878
+    deathdate: 1939
+    gutenberg_agent_id: '5371'
+    url: http://www.gutenberg.org/2009/agents/5371
+    wikipedia: http://en.wikipedia.org/wiki/Lawrence_Gilman
+description: ''
+gutenberg_bookshelf: Music
+gutenberg_issued: '2004-11-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14109'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'MacDowell, Edward, 1860-1908'
+- !lcsh 'Composers -- United States -- Biography'
+- !lcc 'ML'
+title: 'Edward MacDowell: A Study'
+url: http://www.gutenberg.org/ebooks/14109
