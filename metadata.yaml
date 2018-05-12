@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5371
     wikipedia: http://en.wikipedia.org/wiki/Lawrence_Gilman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14109#Edward-MacDowell--13-A-Study
 gutenberg_bookshelf: Music
 gutenberg_issued: '2004-11-21'
 gutenberg_type: Text
